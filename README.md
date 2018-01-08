@@ -1,0 +1,25 @@
+# Annotated Torrents
+
+BitTorrent is a popular protocol for peer-to-peer file sharing. However, compared to centralized alternatives, it is far less user-friendly.
+
+Users interact with popular media streaming services such as Spotify and Netflix as self-contained applications with graphical user interfaces that allow users to discover and consume content without requiring technical sophistication.
+
+In order to accomplish the same thing, a BitTorrent user must use several different computer programs–typically a browser, their operating system's file manager, a BitTorrent client, and a media player. This is complicated by the wide number of torrent indexes, some private, all with different content, which make it hard to discover torrents to download in the first place.
+
+Fortunately, we believe that applications can be built on top of BitTorrent that provide both a user-friendly experience as well as benefiting from the decentralized and peer-to-peer nature of BitTorrent.
+
+Some such applications have already been built, and some have been quite successful. However, they do not interoperate, and many rely on centralized servers and administration. We believe that we can do better.
+
+By creating a common specification for machine-readable metadata describing the contents of a torrent, different applications can be built that provide rich, user-friendly experiences while sharing a common base of torrents.
+
+By including this standardized metadata in a torrent, torrent creators can make their torrents discoverable by and compatible with all applications that follow the specification.
+
+We call torrents that include such metadata "annotated torrents".
+
+The purpose of this repository is to define and document the annotated torrent specification, as well as to provide tools and libraries that allow for the creation, verification, and manipulation of annotated torrents.
+
+The annotated torrent specification and tools are works in progress. We welcome your participation and input.
+
+## Intellectual Property and Infringement
+
+The annotated torrent specification and tools are not intended to facilitate copyright infringement, rather to facilitate the appropriate dissemination of non-infringing content.
