@@ -1,6 +1,7 @@
-# Annotated Torrents
+= Annotated Torrents
 
-BitTorrent is a popular protocol for peer-to-peer file sharing. However, compared to centralized alternatives, it is far less user-friendly.
+BitTorrent is a popular protocol for peer-to-peer file sharing.
+However, compared to centralized alternatives, it is far less user-friendly.
 
 Users interact with popular media streaming services such as Spotify and Netflix as self-contained applications with graphical user interfaces that allow users to discover and consume content without requiring technical sophistication.
 
@@ -20,6 +21,7 @@ The purpose of this repository is to define and document the annotated torrent s
 
 The annotated torrent specification and tools are works in progress. We welcome your participation and input.
 
-## Intellectual Property and Infringement
 
-The annotated torrent specification and tools are not intended to facilitate copyright infringement, rather to facilitate the appropriate dissemination of non-infringing content.
+== Intellectual Property
+
+The annotated torrent specification and tools are not intended to facilitate copyright infringement, rather to facilitate the publication and dissemination of non-infringing content.
