@@ -72,7 +72,7 @@ Many user-friendly features, such as converting downloaded data between formats,
 
 By digitally signing the contents of their torrents, torrent publishers can build a reputation for high-quality releases, without the need for a trusted central entity.
 
-Bitcoin-blockchain rooted timestamps create a way for creators to conclusively prove their authorship of a particular piece of content, given users the ability to verify provenance of data and confidence 
+Bitcoin-blockchain rooted timestamps give creators the ability to conclusively demonstrate their authorship of a particular piece of content. We hope that this will enable a distributed tipping system that allow users to directly reward content creators.
 
 
 === Backwards Compatibility
