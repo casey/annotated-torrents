@@ -86,10 +86,10 @@ Annotated Torrents build on existing technology and are fully backwards compatib
 
 - Library: Software library for validating and interacting with Annotated Torrents
 
-- Creator: Command line and application for creating Annotated Torrents
+- Creator: Command line application for creating Annotated Torrents
 
 - Index: Server that crawls torrents, retrieves metadata, builds a search index, and exposes that index via a standard API
  
 - Client: Graphical application for browsing indexes and downloading content
 
-- Archive: Library management software for maintaining a personal library of content, personally or professionally hosted
+- Archive: Library management software for maintaining a local or hosted library of content downloaded via the client
