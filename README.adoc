@@ -58,9 +58,9 @@ Additionally, since the contents of torrents is fixed after publishing, links to
 
 === Data availability
 
-Currently, when torrent indexes go offline, permanently or temporarily, a great deal of data is lost. Since Annotated Torrent metadata is contained within the torrent, all data will remain available and can easily be re-indexed.
+Currently, when torrent indexes go offline, permanently or temporarily, a great deal of data can be lost lost. Since Annotated Torrent metadata is contained within the torrent itself, all data will remain available and can easily be re-indexed from seeds if a centralized index go offline.
 
-Since metadata is contained within the torrent, adding torrents to a new index simply involves supplying the torrent's info hash, and the index can automatically retrieve metadata from the torrent itself.
+Since metadata is contained within the torrent, adding torrents to a new index simply involves supplying the torrent's info hash to the index. The index itself can automatically retrieve metadata from the torrent seeds.
 
 
 === Processing, Presentation, and Storage
